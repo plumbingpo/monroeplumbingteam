@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://monroeplumbingteam.com/sitemap.xml
